@@ -1,7 +1,7 @@
 package springjdbc;
 /**
  * 
- * @md abdur Rahman
+ * @md abdur Rahman rosmina
  *
  */
 public class User {
